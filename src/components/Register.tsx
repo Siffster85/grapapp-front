@@ -120,6 +120,7 @@ const handleRegister = async () => {
             </Button>
             <Grid2 container justifyContent="center">
                 <Link to="/">Already have an account? Login</Link>
+                <Link to="/register-admin">Do you need to create an Admin Account?</Link>
             </Grid2>
             </Box>
         </Box>
